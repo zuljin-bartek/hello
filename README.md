@@ -1,2 +1,2 @@
 # hello
-checking guthub out
+checking github out
